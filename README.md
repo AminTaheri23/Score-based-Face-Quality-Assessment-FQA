@@ -1,5 +1,5 @@
 # Score-based-Face-Quality-Assessment-FQA
-implementation of (https://www.researchgate.net/publication/327530639_Score_based_Face_Quality_Assessment_FQA)[this paper] in Python - OpenCv 
+implementation of [this paper](https://www.researchgate.net/publication/327530639_Score_based_Face_Quality_Assessment_FQA) in Python - OpenCv 
 
 ## Important 
 this implementaion is not complete yet.
