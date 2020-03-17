@@ -6,7 +6,7 @@ this implementaion is not complete yet.
 
 Main file name is : fqa_score.py
 
-## fqa_score 
+## FQA score 
 this script will train a stacked auto encoders on 4 kind of features,
  GIST(i dont know its abbreviation, you can google it 😀 ),
  CNN,
@@ -19,7 +19,7 @@ it uses lfw for average pics,
 FERRET for good pics and 
 False positive faces from face detection programs (like retina) as bad pics.
 
-## scenario 
+## Scenario 
 we have 3 classes of pics. good, average and bad pics are availabel in 'pics' folder.
  we extact every feature for thease and use feature reduction (auto encoders) to downsize it
  to a vector of 50 elemnts. then concate all of the vectores ( 4 * 50 =200) and use feature 
