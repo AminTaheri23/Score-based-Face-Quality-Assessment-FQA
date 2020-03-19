@@ -36,8 +36,7 @@ our bottle neck is feature calculation. we should use a trained auto encoder for
  feature reduction (after we tuned it). 
 
 ## Attention 
-need to make 'pics' folder if it's not available 
-
+Need to make 'pics' folder if it's not available 
 
 ## TODO : 
 - fine tune the auto encoders
