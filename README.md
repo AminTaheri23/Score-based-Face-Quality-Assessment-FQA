@@ -4,7 +4,7 @@ implementation of [this paper](https://www.researchgate.net/publication/32753063
 ## Important 
 this implementaion is not complete yet.
 
-Main file name is : fqa_score.py
+Main file name is fqa_score.py and you can go to the fqa directory to access codes.
 
 ## FQA score 
 this script will train a stacked auto encoders on 4 kind of features,
@@ -23,8 +23,9 @@ False positive faces from face detection programs (like retina) as bad pics.
 we have 3 classes of pics. good, average and bad pics are availabel in 'pics' folder.
  we extact every feature for thease and use feature reduction (auto encoders) to downsize it
  to a vector of 50 elemnts. then concate all of the vectores ( 4 * 50 =200) and use feature 
-reduction and auto encoders and a softmax layer for classifying images.   
+reduction and auto encoders and a softmax layer for classifying images.
 
+[logo]: fqa/lenna - Copy.jpg "Lenna Original"
 ## Performance 
 our bottle neck is feature calculation. we should use a trained auto encoder for
  feature reduction (after we tuned it). 
