@@ -6,7 +6,7 @@ implementation of [this paper](https://www.researchgate.net/publication/32753063
 
 - Main file name is fqa_score.py and you can go to the fqa directory to access codes.
 
-- You should download this file and extract it in `fqa` directory(__the file is not uploaded yet__)
+- You should download [this](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-) file and extract it in `fqa` directory
 
 ## FQA score 
 this script will train a stacked auto encoders on 4 kind of features,
