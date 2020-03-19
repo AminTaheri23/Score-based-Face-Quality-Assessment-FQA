@@ -2,9 +2,11 @@
 implementation of [this paper](https://www.researchgate.net/publication/327530639_Score_based_Face_Quality_Assessment_FQA) in Python - OpenCv 
 
 ## Important 
-this implementaion is not complete yet.
+- this implementaion is not complete yet.
 
-Main file name is fqa_score.py and you can go to the fqa directory to access codes.
+- Main file name is fqa_score.py and you can go to the fqa directory to access codes.
+
+- You should download this file and extract it in `fqa` directory(__the file is not uploaded yet__)
 
 ## FQA score 
 this script will train a stacked auto encoders on 4 kind of features,
@@ -12,7 +14,7 @@ this script will train a stacked auto encoders on 4 kind of features,
  CNN,
  HOG(histogram of graident), LBP(local binary pattern)
 
-you should install gist from https://github.com/tuttieee/lear-gist-python based on your OS
+you should install gist from [here](https://github.com/tuttieee/lear-gist-python) based on your OS
 full instruction are availble in link
 
 it uses lfw for average pics, 
