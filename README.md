@@ -25,7 +25,7 @@ we have 3 classes of pics. good, average and bad pics are availabel in 'pics' fo
  to a vector of 50 elemnts. then concate all of the vectores ( 4 * 50 =200) and use feature 
 reduction and auto encoders and a softmax layer for classifying images.
 
-[logo]: fqa/lenna - Copy.jpg "Lenna Original"
+[logo]: https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Lenna Original"
 ## Performance 
 our bottle neck is feature calculation. we should use a trained auto encoder for
  feature reduction (after we tuned it). 
