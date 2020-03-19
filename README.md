@@ -24,7 +24,30 @@ we have 3 classes of pics. good, average and bad pics are availabel in 'pics' fo
  we extact every feature for thease and use feature reduction (auto encoders) to downsize it
  to a vector of 50 elemnts. then concate all of the vectores ( 4 * 50 =200) and use feature 
 reduction and auto encoders and a softmax layer for classifying images.
-![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Logo Title Text 1")
+### sample mages
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg" alt="Lenna Original" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg" alt="LEnna Cropped" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lbp.jpg" alt="Local Binary Pattern" style="width:100%">
+  </div>
+ <div class="column">
+    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/hog.jpg" alt="Histogram of Oriented Gradients" style="width:100%">
+  </div>
+</div>
+
+![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Oroginal")
+
+![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/img_cropped.jpg "Cropped")
+
+![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lbp.jpg "Local Binary Pattern")
+
+![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/hog.jpg "Histogram of Oriented Gradients")
 
 ## Performance 
 our bottle neck is feature calculation. we should use a trained auto encoder for
