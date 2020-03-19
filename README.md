@@ -26,6 +26,29 @@ we have 3 classes of pics. good, average and bad pics are availabel in 'pics' fo
 reduction and auto encoders and a softmax layer for classifying images.
 ### sample mages
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 <div class="row">
   <div class="column">
     <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg" alt="Lenna Original" style="width:100%">
@@ -40,6 +63,8 @@ reduction and auto encoders and a softmax layer for classifying images.
     <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/hog.jpg" alt="Histogram of Oriented Gradients" style="width:100%">
   </div>
 </div>
+</body>
+ </HTML>
 
 ![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Oroginal")
 
