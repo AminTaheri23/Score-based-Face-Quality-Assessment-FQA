@@ -54,7 +54,7 @@ reduction and auto encoders and a softmax layer for classifying images.
     <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg" alt="Lenna Original" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg" alt="LEnna Cropped" style="width:100%">
+    <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/img_cropped.jpg" alt="LEnna Cropped" style="width:100%">
   </div>
   <div class="column">
     <img src="https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lbp.jpg" alt="Local Binary Pattern" style="width:100%">
