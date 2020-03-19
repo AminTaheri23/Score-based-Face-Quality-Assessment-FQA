@@ -64,15 +64,7 @@ reduction and auto encoders and a softmax layer for classifying images.
   </div>
 </div>
 </body>
- </HTML>
-
-![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Oroginal")
-
-![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/img_cropped.jpg "Cropped")
-
-![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lbp.jpg "Local Binary Pattern")
-
-![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/hog.jpg "Histogram of Oriented Gradients")
+ </html>
 
 ## Performance 
 our bottle neck is feature calculation. we should use a trained auto encoder for
