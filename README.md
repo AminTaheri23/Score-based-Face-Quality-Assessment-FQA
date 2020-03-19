@@ -26,7 +26,7 @@ we have 3 classes of pics. good, average and bad pics are availabel in 'pics' fo
 reduction and auto encoders and a softmax layer for classifying images.
 ### sample mages
 | Original        | Cropped           | Local Binary pattern  | Histogeram of Oriented Gradients|
-| ------------- |:-------------:| -----:|:-------------:|
+| :-------------: |:-------------:| :-----:|:-------------:|
 | ![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lenna%20-%20Copy.jpg "Oroginal")    | ![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/img_cropped.jpg "Cropped")| ![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/lbp.jpg "Local Binary Pattern") |![alt text](https://github.com/AminTaheri23/Score-based-Face-Quality-Assessment-FQA/blob/master/fqa/hog.jpg "Histogram of Oriented Gradients")|
 
 ## Performance 
