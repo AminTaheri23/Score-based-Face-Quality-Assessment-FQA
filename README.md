@@ -1,4 +1,4 @@
-# Score based Face Quality Assessment (FQA)
+# Score-based Face Quality Assessment (FQA)
 Implementation of [this paper](https://www.researchgate.net/publication/327530639_Score_based_Face_Quality_Assessment_FQA) in Python - OpenCv 
 
 ## Important 
@@ -37,7 +37,7 @@ Our bottle neck is feature calculation. we should use a trained auto encoder for
 ## Attention 
 Need to make 'pics' folder if it's not available 
 
-## TODO : 
+## TODO
 [ ] Fine tune the auto encoders
 [ ] Concatinate (late fusion) vectors 
 [ ] Train an auto encoder (with softmax) for classification
