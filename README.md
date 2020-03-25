@@ -47,5 +47,5 @@ Need to make 'pics' folder if it's not available
 
 
 ## Aknwoledgements				      
-Seyed Mohammad Amin Taheri at Shenasa-ai.ir during internship 
+Seyed Mohammad Amin Taheri at http://Shenasa-ai.ir during internship 
 for any questions, don't hesitate to open and issue or contact me on: amintaheri90@gmail.com  
