@@ -38,11 +38,11 @@ Our bottle neck is feature calculation. we should use a trained auto encoder for
 Need to make 'pics' folder if it's not available 
 
 ## TODO
-[ ] Fine tune the auto encoders
-[ ] Concatinate (late fusion) vectors 
-[ ] Train an auto encoder (with softmax) for classification
-[ ] try V up architectures for auto encoding
-[ ] gather more data for pics ( we already have about 1000 pics per class,
+- [ ] Fine tune the auto encoders
+- [ ] Concatinate (late fusion) vectors 
+- [ ] Train an auto encoder (with softmax) for classification
+- [ ] try V up architectures for auto encoding
+- [ ] gather more data for pics ( we already have about 1000 pics per class,
  but with FERRET data set that is a 'good' labled, we can extend our data set) 
 
 
