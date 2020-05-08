@@ -1,4 +1,8 @@
 # Score-based Face Quality Assessment (FQA)
+<p align="center">
+<img src="https://amintaheri23.github.io/img/portfolio/fqa.png">
+</p>
+
 Implementation of [this paper](https://www.researchgate.net/publication/327530639_Score_based_Face_Quality_Assessment_FQA) in Python - OpenCv 
 
 ## Important 
@@ -8,7 +12,7 @@ Implementation of [this paper](https://www.researchgate.net/publication/32753063
 
 ## FQA score 
 This script will train a stacked auto encoders on 4 kind of features:
-- GIST (I don't know it's abbreviation, you can google it 😀)
+- GIST (I don't know it's abbreviation)
 - CNN (Transfer Learning)
 - HOG (Histogram of graident)
 - LBP(local binary pattern)
