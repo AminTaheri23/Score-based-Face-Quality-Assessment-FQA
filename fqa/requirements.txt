@@ -1,5 +1,5 @@
 opencv-python==4.8.1.78
 numpy==1.22.0
 scikit-image==0.15.0
-Keras==2.13.1
+Keras==3.9.0
 gist==0.5
